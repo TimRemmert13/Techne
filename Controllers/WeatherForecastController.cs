@@ -13,7 +13,7 @@ namespace Techne.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
+            "Freezing", "Bracing", "My value"
         };
 
         private readonly ILogger<WeatherForecastController> _logger;
