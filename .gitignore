@@ -1,0 +1,5 @@
+obj/
+bin/
+out/
+appsettings.json
+.vscode/
